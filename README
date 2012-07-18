@@ -1,0 +1,3 @@
+This is an example of using the new 2D functionality with HTML5.
+
+A few circular gauges are drawn, each with a needle.  That needle rotates around the gauge.
