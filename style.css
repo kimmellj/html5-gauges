@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+
+body {
+	background: #333333;
+}
+
+.holder {
+	width: 1080px;
+}
+
+.left {
+	width: 50%;
+	float: left;
+}
+
+.right {
+	width: 50%;
+	float: right;
+}
+
+.right .main {
+	float: left;
+	width: 420px;
+}
+
+.right .sub {
+	width: 120px;
+	float: right;
+}
+
+.left .main {
+	float: right;
+	width: 420px;
+}
+
+.left .sub {
+	width: 120px;
+	float: left;
+}
